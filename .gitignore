@@ -1,0 +1,7 @@
+#Terraform providers & state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Mappen som skapas
+miljo/
